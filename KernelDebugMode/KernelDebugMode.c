@@ -128,3 +128,8 @@ NTSTATUS DriverEntry(PDRIVER_OBJECT pDriverObject,
 
 	return STATUS_SUCCESS;
 }
+
+VOID AA()
+{
+
+}
